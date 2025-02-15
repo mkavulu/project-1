@@ -1,0 +1,8 @@
+#print("This is python programming")
+#print('This is python')
+print("Enter Your Country")
+country=input()
+print("What's Your country's population?")
+population =input()
+print(country)
+print(population)
